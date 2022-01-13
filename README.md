@@ -3,6 +3,7 @@
 
 ## Data
 日本の空き家率データ：総務省統計局の住宅・土地統計調査住宅数概数集計結果
+
 日本の人口データ：国立社会保障・人口問題研究所、The World Bank
 
 - https://www.stat.go.jp/data/jyutaku/2018/tyousake.html
@@ -10,6 +11,7 @@
 - https://datacommons.org/place/country/JPN?utm_medium=explore&mprop=count&popt=Person&hl=ja
 
 アメリカの空き家率データ：FRED ECONOMIN DATA
+
 アメリカの人口データ：The World Bank
 
 - https://fred.stlouisfed.org/series/RHVRNEQ156N
