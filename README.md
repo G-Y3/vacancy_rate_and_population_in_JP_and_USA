@@ -24,3 +24,4 @@ $ vacanthouse
 ```
 
 ## 出力
+![フクロウ](https://github.com/Lifengtong1/vacancy_rate_and_population_in_JP_and_USA/blob/main/result.png)
