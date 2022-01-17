@@ -1,5 +1,5 @@
 # vacancy_rate_and_population_in_JP_and_USA
-アメリカと日本の空き家率や人口について、1958年から2018年まで5年ごとのデータを棒グラフや折れ線グラフを用いて、分析した。
+アメリカと日本の空き家率や人口について、1958年から2018年まで5年ごとのデータを棒グラフや折れ線グラフを用いて、可視化した。
 
 ## Data
 日本の空き家率データ：総務省統計局の住宅・土地統計調査住宅数概数集計結果<br>
@@ -21,5 +21,5 @@ $ pip install vacanthouse
 $ vacanthouse
 ```
 
-## 出力
+## 出力結果
 ![フクロウ](https://github.com/Lifengtong1/vacancy_rate_and_population_in_JP_and_USA/blob/main/result.png)
